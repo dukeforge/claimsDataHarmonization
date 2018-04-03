@@ -36,4 +36,4 @@
 * Paid amount
 ___
 ### Notes
-**Bolded** are "Gotta Have". Asterisked are known to be difficult and are "Want to Have".
+**Bolded** are "Gotta Have". Asterisked are known to be difficult and are "Want to Have". Italicized is "Should Have".
