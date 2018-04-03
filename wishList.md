@@ -7,32 +7,32 @@
 ### Inpatient visits
 * *ED flag (ED only, ED to inpatient, direct inpatient admission)
 * DRG
-* Admission source
-* Place of service
+* _Admission source_
+* _Place of service_
 * **Location**
 * **Admit date**
 * **Discharge date**
 * **Admitting diagnosis**
 * **Discharging diagnoses**
 * **Procedures performed (ICD, HCPCS, CPT, revenue codes)**
-* Modifiers for CPT codes
+* _Modifiers for CPT codes_
 * *Admitting physician
 * *Discharging physician
 * **Attending physician** NPI *and name
 * Provider specialty
-  * Admission source
-  * Primary diagnosis (at discharge)
-  * Billed amount
+  * _Admission source_
+  * _Primary diagnosis (at discharge)_
+  * _Billed amount_
   * Paid amount
 ### Outpatient visits
 * Location
 * Visit provider NPI *and name
-* Provider specialty
+* _Provider specialty_
 * Date of service
 * Diagnoses
 * Procedures (CPT, HCPCS, revenue codes)
-* Modifiers for CPT codes
-* Billed amount
+* _Modifiers for CPT codes_
+* _Billed amount_
 * Paid amount
 ___
 ### Notes
